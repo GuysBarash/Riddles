@@ -21,7 +21,7 @@ Syrian: [Tells the TRUTH]
 
 Iranian: Now, if you can tell me if the second digit is "1", i will have the locker number.
 
-The syrian agent is about to answer, but the iranian agent stands up and blocks your sight! an answer waas given but you couldn't see or hear!
+The syrian agent is about to answer, but the iranian agent stands up and blocks your sight! an answer was given but you couldn't see or hear!
 The iranian agent leaves the room and calls his boss, "We have the number, i'm leaving now".
 
 You know that the Iranian has the wrong number because the Syrian lied twice. But can you tell what the right number is? 
