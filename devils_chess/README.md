@@ -17,4 +17,4 @@ The game will work as follows:
 
 
 
-Can you help Alice and Bob defeat the devil in his own game?
+Can you help Alice and Bob defeat the Devil in his own game?
