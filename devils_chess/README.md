@@ -16,4 +16,5 @@ The game will work as follows:
 9. He gets only one guess. So he cannot afford to be wrong.
 
 
+
 Can you help Alice and Bob defeat the devil in his own game?
